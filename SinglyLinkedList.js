@@ -1,3 +1,4 @@
+
 class List {
   constructor(data) {
     this.data = data
